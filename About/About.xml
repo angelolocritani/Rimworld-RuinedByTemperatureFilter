@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<packageId>arl85.RuinedByTemperatureFilter</packageId>
+	<name>Ruined by temperature filter</name>
+	<author>arl85</author>
+	<!-- <url>https://ludeon.com/forums/index.php?topic=21884.0</url> -->
+	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+	<description>A simple QOL mod that allow to filter fertilized eggs based on their status (ruined or not ruined by temperature).\nUseful when you want to use fertilized but ruined eggs for cooking or just to store them separately.</description>
+</ModMetaData>
