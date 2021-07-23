@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<SpecialThingFilterDef>
+		<defName>AllowRuinedByTemperature</defName>
+		<label>Allow ruined by temp.</label>
+		<description>Allow eggs that are ruined by temperature.</description>
+		<parentCategory>EggsFertilized</parentCategory>
+		<allowedByDefault>true</allowedByDefault>
+		<saveKey>AllowRuinedByTemperatureEggs</saveKey>
+		<workerClass>RuinedByTemperatureFilter.SpecialThingFilterWorker_RuinedByTemperature</workerClass>
+	</SpecialThingFilterDef>
+	
+	<SpecialThingFilterDef>
+		<defName>AllowNotRuinedByTemperature</defName>
+		<label>Allow not ruined by temp.</label>
+		<description>Allow eggs that are not ruined by temperature.</description>
+		<parentCategory>EggsFertilized</parentCategory>
+		<allowedByDefault>true</allowedByDefault>
+		<saveKey>AllowNotRuinedByTemperatureEggs</saveKey>
+		<workerClass>RuinedByTemperatureFilter.SpecialThingFilterWorker_NotRuinedByTemperature</workerClass>
+	</SpecialThingFilterDef>
+</Defs>

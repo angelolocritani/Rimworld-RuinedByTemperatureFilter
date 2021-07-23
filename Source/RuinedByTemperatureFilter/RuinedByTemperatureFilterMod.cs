@@ -17,7 +17,7 @@ namespace RuinedByTemperatureFilter
     {
         public override bool Matches(Thing t) => CanEverMatch(t.def) && t.TryGetComp<CompTemperatureRuinable>().Ruined;
 
-        public override bool CanEverMatch(ThingDef def) => def.IsEgg && def.HasComp(typeof(CompTemperatureRuinable));
+        public override bool CanEverMatch(ThingDef def) => def.HasComp(typeof(CompTemperatureRuinable));
 
       
     }
@@ -26,7 +26,7 @@ namespace RuinedByTemperatureFilter
     {
         public override bool Matches(Thing t) => CanEverMatch(t.def) && !t.TryGetComp<CompTemperatureRuinable>().Ruined;
 
-        public override bool CanEverMatch(ThingDef def) => def.IsEgg && def.HasComp(typeof(CompTemperatureRuinable));
+        public override bool CanEverMatch(ThingDef def) => def.HasComp(typeof(CompTemperatureRuinable));
 
 
     }
