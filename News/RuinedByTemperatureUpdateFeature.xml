@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<HugsLib.UpdateFeatureDef Abstract="true" Name="UpdateFeatureBase">
+		<defName>RuinedByTemperatureUpdateFeature</defName>
+		<modNameReadable>Ruined by temperature filter</modNameReadable>
+		<modIdentifier>RuinedByTemperature</modIdentifier>
+<linkUrl>https://github.com/angelolocritani/Rimworld-RuinedByTemperatureFilter/releases</linkUrl>
+	</HugsLib.UpdateFeatureDef>
+	
+	<HugsLib.UpdateFeatureDef ParentName="UpdateFeatureBase">
+		<defName>RuinedByTemperature_1.1</defName>
+		<assemblyVersion>1.1.0</assemblyVersion>
+		<content>Added support for Rimworld 1.2</content>
+		<linkUrl>https://github.com/angelolocritani/Rimworld-RuinedByTemperatureFilter/releases/tag/v1.1.0</linkUrl>
+	</HugsLib.UpdateFeatureDef>
+</Defs>
