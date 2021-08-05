@@ -1,5 +1,9 @@
+[![Version](https://img.shields.io/badge/Rimworld-1.2-green.svg)](http://rimworldgame.com/) [![Version](https://img.shields.io/badge/Rimworld-1.3-green.svg)](http://rimworldgame.com/)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/angelolocritani/Rimworld-RuinedByTemperatureFilter)](https://github.com/angelolocritani/Rimworld-RuinedByTemperatureFilter/releases/latest)
 # Rimworld-RuinedByTemperatureFilter
+
  RuinedByTemperatureFilter mod for Rimworld
+
 
 ![RuinedByTemperatureFilterPreview](https://i.imgur.com/yGeRY47.png)
 
