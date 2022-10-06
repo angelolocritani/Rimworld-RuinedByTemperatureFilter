@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AllowRuinedByTemperature.label>Consenti rovinato dalla temperatura</AllowRuinedByTemperature.label>
+  <AllowRuinedByTemperature.description>Consenti uova rovinate dalla temperatura.</AllowRuinedByTemperature.description>
+  <AllowNotRuinedByTemperature.label>Consenti non rovinato dalla temperatura</AllowNotRuinedByTemperature.label>
+  <AllowNotRuinedByTemperature.description>Consenti uova non rovinate dalla temperatura.</AllowNotRuinedByTemperature.description>
+</LanguageData>
