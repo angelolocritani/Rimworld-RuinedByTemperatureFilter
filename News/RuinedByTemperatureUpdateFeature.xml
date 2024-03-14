@@ -13,4 +13,10 @@
 		<content>Added support for Rimworld 1.2</content>
 		<linkUrl>https://github.com/angelolocritani/Rimworld-RuinedByTemperatureFilter/releases/tag/v1.1.0</linkUrl>
 	</HugsLib.UpdateFeatureDef>
+	<HugsLib.UpdateFeatureDef ParentName="UpdateFeatureBase">
+		<defName>RuinedByTemperature_1_2_0</defName>
+		<assemblyVersion>1.2.0</assemblyVersion>
+		<content>Added support for Rimworld 1.5</content>
+		<linkUrl>https://github.com/angelolocritani/Rimworld-RuinedByTemperatureFilter/releases/tag/v1.2.0</linkUrl>
+	</HugsLib.UpdateFeatureDef>
 </Defs>
