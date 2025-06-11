@@ -10,6 +10,9 @@
 A simple QOL mod that allow to filter fertilized eggs based on their status (ruined or not ruined by temperature).
 Useful when you want to use fertilized but ruined eggs for cooking or just to store them separately.
 
+No longer needed for 1.6 because eggs ruined by temperature now convert to unfertilized eggs.
+
+
 ---
 
 [![Steam download](https://img.shields.io/steam/downloads/2554476852?logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2554476852)
